@@ -98,10 +98,3 @@ img
     padding: 10px;
     border-radius: 10px;
 }
-
-span
-{
-    border-top: var(--cor1) solid 2.5px;
-    border-left: var(--cor1) solid 2.5px;
-    
-}
